@@ -25,6 +25,9 @@ Open browser to `http://localhost:{PORT}/graphiql`
 
 ![Screenshot 2021-03-28 at 15 50 48](https://user-images.githubusercontent.com/9336187/112757015-adb91900-8fdf-11eb-95cf-9954ec6b693e.png)
 
+**Live GraphiQL Playground:**
+[Heroku App](https://buycoins-th.herokuapp.com/)
+
 ## Running Tests
 
 In the root of the application, run `go test ./...` to run all test suites
